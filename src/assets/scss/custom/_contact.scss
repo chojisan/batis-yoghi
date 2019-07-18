@@ -1,0 +1,20 @@
+#contact {
+
+    .form {
+
+        textarea,
+        input {
+            border-radius: 0;
+            box-shadow: none;
+            font-size: 14px;
+        }
+
+        button[type="submit"] {
+            background-color: #fed136;
+            border: 0;
+            border-radius: 20px;
+            padding: 8px 30px;
+            color: #fff;
+        }
+    }
+}
