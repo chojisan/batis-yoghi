@@ -1,9 +1,9 @@
 <template>
-  <section id="activities" class="py-5">
+  <section id="activities" class="py-5 bg-secondary">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 text-center" data-aos="zoom-in">
-          <h2 class="section-heading text-uppercase">PROJECT AND ACTIVITIES</h2>
+          <h2 class="site text-uppercase">PROJECT AND ACTIVITIES</h2>
           <h3 class="section-subheading text-muted">self-development</h3>
         </div>
       </div>
