@@ -204,7 +204,7 @@ $love-color: $red !default;
 // Body
 
 
-$body-bg: #f8f9fe !default;
+$body-bg: $white !default;
 $body-color: $gray-700 !default;
 
 
@@ -318,7 +318,7 @@ $transition-collapse:         height .35s ease !default;
 
 
 // Fonts
-
+$font-family-alt: 'Open Sans', sans-serif !default;
 $font-family-sans-serif: Open Sans, sans-serif !default;
 $font-family-base: $font-family-sans-serif !default;
 
@@ -703,6 +703,7 @@ $navbar-padding-x:                  1rem !default;
 $navbar-nav-link-padding-x:         1rem !default;
 $navbar-nav-link-padding-y:         1rem !default;
 
+$navbar-nav-link-font-family:       $font-family-alt !default;
 $navbar-nav-link-font-size:         .9rem !default;
 $navbar-nav-link-font-weight:       400 !default;
 $navbar-nav-link-text-transform:    normal !default;
