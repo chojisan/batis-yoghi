@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 text-center" data-aos="zoom-in">
-          <h2 class="section-heading text-uppercase">ABOUT US</h2>
+          <h2 class="site text-uppercase">ABOUT US</h2>
           <h3
             class="section-subheading text-muted"
           >Youth Organization that Gives Hope and Inspiration</h3>
@@ -58,19 +58,19 @@
       </div>
       <div class="row">
         <div class="col-lg-4 text-center" data-aos="fade-up">
-          <h2 class="section-heading text-uppercase">Vision</h2>
+          <h2 class="site text-uppercase">Vision</h2>
           <h3
             class="section-subheading text-muted"
           >A society that ensures the welfare of women returnees and families, where everyone is free to exercise his/her right to work, have meaningful life, equal opportunities and access to social services.</h3>
         </div>
         <div class="col-lg-4 text-center" data-aos="fade-up" data-aos-delay="150">
-          <h2 class="section-heading text-uppercase">Mission</h2>
+          <h2 class="site text-uppercase">Mission</h2>
           <h3
             class="section-subheading text-muted"
           >Expand its membership, to Empower Women, to Advocate Migrant Women's Rights, locally and Internationally.</h3>
         </div>
         <div class="col-lg-4 text-center" data-aos="fade-up" data-aos-delay="300">
-          <h2 class="section-heading text-uppercase">Goals</h2>
+          <h2 class="site text-uppercase">Goals</h2>
           <h3 class="section-subheading text-muted">
             Shall establish a consolidated organization where members are united to implement its mission.
             <br />
