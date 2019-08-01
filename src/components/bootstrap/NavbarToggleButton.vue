@@ -8,12 +8,10 @@
     :aria-expanded="toggled"
     aria-label="Toggle navigation"
   >
-    <slot>
-      <span></span>
-      <span></span>
-    </slot>
+    <span class="navbar-toggler-icon"></span>
   </button>
 </template>
+
 <script>
 export default {
   props: {
@@ -29,5 +27,3 @@ export default {
   }
 };
 </script>
-<style>
-</style>
