@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-12 text-lg-left text-center">
           <div class="copyright">
-            &copy; 2018 Copyright
+            &copy; {{year}} Copyright
             <strong>Batis YOGHI - Youth Organization that Gives Hope and Inspiration</strong>. All Rights Reserved
           </div>
           <div class="credits">
@@ -16,3 +16,14 @@
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  name: "app-footer",
+  data() {
+    return {
+      year: new Date().getFullYear()
+    };
+  }
+};
+</script>
