@@ -1,5 +1,5 @@
 <template>
-  <section id="activities" class="py-5 bg-secondary">
+  <section id="programs-and-activities" class="py-5 bg-secondary">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 text-center" data-aos="zoom-in">

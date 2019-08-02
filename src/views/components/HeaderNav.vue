@@ -29,10 +29,10 @@
         <router-link to="#about-us" class="nav-link">ABOUT US</router-link>
       </li>
       <li class="nav-item px-2">
-        <router-link to="#what-we-do" class="nav-link">PROGRAMS &amp; ACTIVITIES</router-link>
+        <router-link to="#programs-and-activities" class="nav-link">PROGRAMS &amp; ACTIVITIES</router-link>
       </li>
       <li class="nav-item px-2">
-        <router-link to="#activities" class="nav-link">GALLERY</router-link>
+        <router-link to="#gallery" class="nav-link">GALLERY</router-link>
       </li>
       <li class="nav-item px-2">
         <router-link to="#officers" class="nav-link">OFFICERS</router-link>

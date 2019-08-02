@@ -13,5 +13,22 @@ export default new Router({
       name: 'landing',
       component: () => import( /* webpackChunkName: "demo" */ './views/pages/Landing.vue')
     }]
-  }]
+  }],
+  // eslint-disable-next-line
+  scrollBehavior(to, from, savedPosition) {
+    if (to.hash) {
+      return {
+        selector: to.hash,
+        offset: {
+          x: 0,
+          y: 60
+        }
+      }
+    } else {
+      return {
+        x: 0,
+        y: 0
+      };
+    }
+  }
 })
